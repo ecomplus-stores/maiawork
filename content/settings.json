@@ -1,7 +1,8 @@
 {
   "store_id": 4131,
   "name": "maiawork",
-  "domain": "maiawork.netlify.app",
+  "domain": "maiawork.com",
+  "repository": "ecomplus-stores/maiawork",  
   "short_name": "maiawork",
   "description": "maiawork ",
   "primary_color": "#222831",
